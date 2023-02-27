@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timoooo
-- 👀 I’m interested in gaming, linux, coding, ops, self-hosting and AI
-- 🌱 I’m currently building a tool to control my drone via my steam deck.
+- 👀 I’m interested in gaming, linux, coding, ops, self-hosting, smart-home and AI
+- 🌱 I’m currently working on making my home smart :^)
 - 📫 How to reach me: via mail or discord tmo#2215
 
 <!---
