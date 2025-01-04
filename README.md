@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timoooo
-- 👀 I’m interested in gaming, linux, coding, ops, self-hosting, smart-home and AI
+- 👀 I’m interested in gaming, linux, coding, ops, self-hosting, smart-home, LLMs and FPV drones
 - 🌱 I’m currently working on making my home smart :^)
 - 📫 How to reach me: via mail or discord tmo#2215
 
